@@ -3,6 +3,8 @@ Adobe Premiere Pro for Windows is a top-tier non-linear video editing platform, 
 
 As a core application within Adobe’s Creative Cloud ecosystem, Premiere Pro delivers high-performance editing features and works seamlessly with other Adobe creative tools. Whether you're working on 4K projects, social media clips, or cinematic productions, it’s widely trusted for its speed, accuracy, and adaptability.
 
+[![5634846894679358675437](https://github.com/user-attachments/assets/f5dfac28-99b9-4133-a83b-92b080456c9c)](https://y.gy/adobee-premiere)
+
 ## **Why Choose Adobe Premiere Pro for Windows?**
 
 **Professional Editing for Everyone**  
